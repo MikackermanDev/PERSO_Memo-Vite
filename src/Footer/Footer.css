@@ -1,3 +1,9 @@
 .foot {
-	background-color: rgb(128, 128, 128, 0.2);
+	position: fixed;
+	width: 100%;
+	min-height: 30px;
+	line-height: 30px;
+	bottom: 0;
+	background-color: gray;
+	text-align: center;
 }
