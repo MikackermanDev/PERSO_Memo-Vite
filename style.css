@@ -10,8 +10,10 @@ body {
 	font-family: "Poppins", Arial, sans-serif;
 	display: flex;
 	flex-direction: column;
+	/* Fixe le footer en bas de page quand le milieu est vide */
 	min-height: 100vh;
 }
+/* Fixe le footer en bas de page */
 .content {
 	background-color: aqua;
 	flex: 1;
